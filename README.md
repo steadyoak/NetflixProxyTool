@@ -4,7 +4,7 @@
 
 # NetflixProxyTool (网飞代理工具)
 
-NetflixProxyTool 是一款专为 Windows 平台打造的高性能 SNI 反向代理与 Acrylic 本地 DNS 自动化管理工具。
+不用翻墙就可以访问网飞。NetflixProxyTool 是一款专为 Windows 平台打造的高性能 SNI 反向代理与 Acrylic 本地 DNS 自动化管理工具。
 
 ## 核心特性
 - **双引擎网络空间测绘**：支持奇安信鹰图 (Hunter) 与 FOFA 平台，自动化采集全球候选节点。
