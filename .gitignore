@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+!NetflixProxyTool.spec
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Build and Dist
+build/
+dist/
+
+# Local Configurations & Cache
+config.json
+server_pools.json
+AcrylicCache.dat
+*.log
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,22 @@
+{
+  "hunter": {
+    "TW": { "candidates": [], "dead": [] },
+    "HK": { "candidates": [], "dead": [] },
+    "JP": { "candidates": [], "dead": [] },
+    "US": { "candidates": [], "dead": [] },
+    "KR": { "candidates": [], "dead": [] },
+    "GB": { "candidates": [], "dead": [] },
+    "CA": { "candidates": [], "dead": [] },
+    "SG": { "candidates": [], "dead": [] }
+  },
+  "fofa": {
+    "TW": { "candidates": [], "dead": [] },
+    "HK": { "candidates": [], "dead": [] },
+    "JP": { "candidates": [], "dead": [] },
+    "US": { "candidates": [], "dead": [] },
+    "KR": { "candidates": [], "dead": [] },
+    "GB": { "candidates": [], "dead": [] },
+    "CA": { "candidates": [], "dead": [] },
+    "SG": { "candidates": [], "dead": [] }
+  }
+}
